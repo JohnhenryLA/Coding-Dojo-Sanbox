@@ -23,3 +23,4 @@ function gettotal(arrayofnumbers){
     }
     console.log("the total is: " + sum)
     }
+    gettotal([1,3,5])
